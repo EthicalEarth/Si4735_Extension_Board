@@ -1,0 +1,6 @@
+(fp_lib_table
+  (lib (name "PCA9507")(type "KiCad")(uri "${KIPRJMOD}/PCA9507D-118/footprints.pretty")(options "")(descr ""))
+  (lib (name "MEGA2560")(type "KiCad")(uri "${KIPRJMOD}/MEGA_PRO_EMBED_CH340G")(options "")(descr ""))
+  (lib (name "TDA1517")(type "KiCad")(uri "${KIPRJMOD}/TDA1517")(options "")(descr ""))
+  (lib (name "PCA9517")(type "KiCad")(uri "${KIPRJMOD}/TCA9517DR")(options "")(descr ""))
+)

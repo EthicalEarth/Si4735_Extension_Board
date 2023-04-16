@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "PCA9507")(type "Legacy")(uri "${KIPRJMOD}/PCA9507D-118/2022-12-25_01-08-45.lib")(options "")(descr ""))
+  (lib (name "MEGA2560")(type "KiCad")(uri "${KIPRJMOD}/MEGA_PRO_EMBED_CH340G/MEGA_PRO_EMBED_CH340G_ATMEGA2560.kicad_sym")(options "")(descr ""))
+  (lib (name "TDA1517")(type "KiCad")(uri "${KIPRJMOD}/TDA1517/TDA1517P_N3_112.kicad_sym")(options "")(descr ""))
+  (lib (name "TCA9517")(type "KiCad")(uri "${KIPRJMOD}/TCA9517DR/TCA9517DR.kicad_sym")(options "")(descr ""))
+)
